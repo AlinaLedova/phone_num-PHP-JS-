@@ -7,13 +7,6 @@
     <link rel="stylesheet" type="text/css" href="phone_num/style/pn_style.css">
 </head>
 <body>
-<?php
-    require_once 'phone_num/functions.php';
-    $tip = $GLOBALS;
-    print_array($tip);
-    $hostURL = $_SERVER['HTTP_HOST'];
-    echo $hostURL;
-?>
     <div class="num-container">
         <form id="phone_num" action="#" method="POST">
             <div id="national_flag" class="flag"></div>
