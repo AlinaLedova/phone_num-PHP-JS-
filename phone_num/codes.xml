@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country name="Australia" image="61" code="61" />
+    <country name="Austria" image="43" code="43" />
+    <country name="Azerbaijan" image="994" code="994" />
+    <country name="Albania" image="355" code="355" />
+    <country name="Algeria" image="213" code="213" />
+    <country name="Angola" image="244" code="244" />
+    <country name="Andorra" image="376" code="376" />
+    <country name="Antigua and Barbuda" image="1268" code="1268" />
+    <country name="Argentina" image="54" code="54" />
+    <country name="Armenia" image="374" code="374" />
+    <country name="Afghanistan" image="93" code="93" />
+    <country name="Bahamas" image="1242" code="1242" />
+    <country name="Bangladesh" image="880" code="880" />
+    <country name="Barbados" image="1246" code="1246" />
+    <country name="Bahrain" image="973" code="973" />
+    <country name="Belarus" image="375" code="375" />
+    <country name="Belize" image="501" code="501" />
+    <country name="Belgium" image="32" code="32" />
+    <country name="Benin" image="229" code="229" />
+    <country name="Bulgaria" image="359" code="359" />
+    <country name="Bolivia" image="591" code="591" />
+    <country name="Bosnia and Herzegovina" image="387" code="387" />
+    <country name="Botswana" image="267" code="267" />
+    <country name="Brazil" image="55" code="55" />
+    <country name="Brunei" image="673" code="673" />
+    <country name="Burkina Faso" image="226" code="226" />
+    <country name="Burundi" image="257" code="257" />
+    <country name="Bhutan" image="975" code="975" />
+    <country name="Vanuatu" image="678" code="678" />
+    <country name="Vatican" image="39" code="39" />
+    <country name="United Kingdom" image="44" code="44" />
+    <country name="Hungary" image="36" code="36" />
+    <country name="Venezuela" image="58" code="58" />
+    <country name="East Timor" image="670" code="670" />
+    <country name="Vietnam" image="84" code="84" />
+    <country name="Gabon" image="241" code="241" />
+    <country name="Haiti" image="509" code="509" />
+    <country name="Guyana" image="592" code="592" />
+    <country name="Gambia" image="220" code="220" />
+    <country name="Ghana" image="233" code="233" />
+    <country name="Guatemala" image="502" code="502" />
+    <country name="Guinea" image="224" code="224" />
+    <country name="Guinea-Bissau" image="245" code="245" />
+    <country name="Germany" image="49" code="49" />
+    <country name="Honduras" image="504" code="504" />
+    <country name="Grenada" image="1473" code="1473" />
+    <country name="Greece" image="30" code="30" />
+    <country name="Georgia" image="995" code="995" />
+    <country name="Denmark" image="45" code="45" />
+    <country name="Djibouti" image="253" code="253" />
+    <country name="Dominica" image="1767" code="1767" />
+    <country name="Dominican Republic" image="1809" code="1809" />
+    <country name="Egypt" image="20" code="20" />
+    <country name="Zambia" image="260" code="260" />
+    <country name="Zimbabwe" image="263" code="263" />
+    <country name="Israel" image="972" code="972" />
+    <country name="India" image="91" code="91" />
+    <country name="Indonesia" image="62" code="62" />
+	<country name="Jordan" image="962" code="962" />
+	<country name="Iraq" image="964" code="964" />
+	<country name="Iran" image="98" code="98" />
+	<country name="Ireland" image="353" code="353" />
+	<country name="Iceland" image="354" code="354" />
+	<country name="Spain" image="34" code="34" />
+	<country name="Italy" image="39" code="39" />
+	<country name="Yemen" image="967" code="967" />
+	<country name="Cape Verde" image="238" code="238" />
+	<country name="Kazakhstan" image="7x" code="7" />
+	<country name="Cambodia" image="855" code="855" />
+	<country name="Cameroon" image="237" code="237" />
+	<country name="Canada" image="1x" code="1" />
+	<country name="Qatar" image="974" code="974" />
+	<country name="Kenya" image="254" code="254" />
+	<country name="Cyprus" image="357" code="357" />
+	<country name="Kyrgyzstan" image="996" code="996" />
+	<country name="Kiribati" image="686" code="686" />
+	<country name="China" image="86" code="86" />
+	<country name="Colombia" image="57" code="57" />
+	<country name="Comoros" image="269" code="269" />
+	<country name="Congo Democratic Republic" image="243" code="243" />
+	<country name="Congo Republic" image="242" code="242" />
+	<country name="Costa Rica" image="506" code="506" />
+	<country name="Cote dIvoire" image="225" code="225" />
+	<country name="Cuba" image="53" code="53" />
+	<country name="Kuwait" image="965" code="965" />
+	<country name="Laos" image="856" code="856" />
+	<country name="Latvia" image="371" code="371" />
+	<country name="Lesotho" image="266" code="266" />
+	<country name="Liberia" image="231" code="231" />
+	<country name="Lebanon" image="961" code="961" />
+	<country name="Libya" image="218" code="218" />
+	<country name="Lithuania" image="370" code="370" />
+	<country name="Liechtenstein" image="423" code="423" />
+	<country name="Luxembourg" image="352" code="352" />
+	<country name="Mauritius" image="230" code="230" />
+	<country name="Mauritania" image="222" code="222" />
+	<country name="Madagascar" image="261" code="261" />
+	<country name="Macedonia" image="389" code="389" />
+	<country name="Malawi" image="265" code="265" />
+	<country name="Malaysia" image="60" code="60" />
+	<country name="Mali" image="223" code="223" />
+	<country name="Maldives" image="960" code="960" />
+	<country name="Malta" image="356" code="356" />
+	<country name="Morocco" image="212" code="212" />
+	<country name="Marshall Islands" image="692" code="692" />
+	<country name="Mexico" image="52" code="52" />
+	<country name="Mozambique" image="258" code="258" />
+	<country name="Moldova" image="373" code="373" />
+	<country name="Monaco" image="377" code="377" />
+	<country name="Mongolia" image="976" code="976" />
+	<country name="Myanmar" image="95" code="95" />
+	<country name="Namibia" image="264" code="264" />
+	<country name="Nauru" image="674" code="674" />
+	<country name="Nepal" image="977" code="977" />
+	<country name="Niger" image="227" code="227" />
+	<country name="Nigeria" image="234" code="234" />
+	<country name="Netherlands" image="31" code="31" />
+	<country name="Nicaragua" image="505" code="505" />
+	<country name="New Zealand" image="64" code="64" />
+	<country name="Norway" image="47" code="47" />
+	<country name="United arab emirates" image="971" code="971" />
+	<country name="Oman" image="968" code="968" />
+	<country name="Pakistan" image="92" code="92" />
+	<country name="Palau" image="680" code="680" />
+	<country name="Panama" image="507" code="507" />
+	<country name="Papua New Guinea" image="675" code="675" />
+	<country name="Paraguay" image="595" code="595" />
+	<country name="Peru" image="51" code="51" />
+	<country name="Poland" image="48" code="48" />
+	<country name="Portugal" image="351" code="351" />
+	<country name="Russia" image="7" code="7" />
+	<country name="Rwanda" image="250" code="250" />
+	<country name="Romania" image="40" code="40" />
+	<country name="Salvador" image="503" code="503" />
+	<country name="Samoa" image="685" code="685" />
+	<country name="San marino" image="378" code="378" />
+	<country name="Sao Tome and Principe" image="239" code="239" />
+	<country name="Saudi Arabia" image="966" code="966" />
+	<country name="Swaziland" image="268" code="268" />
+	<country name="North Korea" image="850" code="850" />
+	<country name="Seychelles" image="248" code="248" />
+	<country name="Senegal" image="221" code="221" />
+	<country name="Saint Vincent and the Grenadines" image="1784" code="1784" />
+	<country name="Saint Kitts and Nevis" image="1869" code="1869" />
+	<country name="Saint lucia" image="1758" code="1758" />
+	<country name="Serbia" image="381" code="381" />
+	<country name="Singapore" image="65" code="65" />
+	<country name="Syria" image="963" code="963" />
+	<country name="Slovakia" image="421" code="421" />
+	<country name="Slovenia" image="386" code="386" />
+	<country name="United States of America" image="1" code="1" />
+	<country name="Solomon Islands" image="677" code="677" />
+	<country name="Somalia" image="252" code="252" />
+	<country name="Sudan" image="249" code="249" />
+	<country name="Suriname" image="597" code="597" />
+	<country name="Sierra Leone" image="232" code="232" />
+	<country name="Tajikistan" image="992" code="992" />
+	<country name="Thailand" image="66" code="66" />
+	<country name="Tanzania" image="255" code="255" />
+	<country name="Togo" image="228" code="228" />
+	<country name="Tonga" image="676" code="676" />
+	<country name="Trinidad and Tobago" image="1868" code="1868" />
+	<country name="Tuvalu" image="688" code="688" />
+	<country name="Tunisia" image="216" code="216" />
+	<country name="Turkmenistan" image="993" code="993" />
+	<country name="Turkey" image="90" code="90" />
+	<country name="Uganda" image="256" code="256" />
+	<country name="Uzbekistan" image="998" code="998" />
+	<country name="Ukraine" image="380" code="380" />
+	<country name="Uruguay" image="598" code="598" />
+	<country name="Federated States of Micronesia" image="691" code="691" />
+	<country name="Fiji" image="679" code="679" />
+	<country name="Philippines" image="63" code="63" />
+	<country name="Finland" image="358" code="358" />
+	<country name="France" image="33" code="33" />
+	<country name="Croatia" image="385" code="385" />
+	<country name="Central African Republic" image="236" code="236" />
+	<country name="Chad" image="235" code="235" />
+	<country name="Montenegro" image="381" code="381" />
+	<country name="Czech Republic" image="420" code="420" />
+	<country name="Chile" image="56" code="56" />
+	<country name="Switzerland" image="41" code="41" />
+	<country name="Sweden" image="46" code="46" />
+	<country name="Sri lanka" image="94" code="94" />
+	<country name="Ecuador" image="593" code="593" />
+	<country name="Equatorial Guinea" image="240" code="240" />
+	<country name="Eritrea" image="291" code="291" />
+	<country name="Estonia" image="372" code="372" />
+	<country name="Ethiopia" image="251" code="251" />
+	<country name="South Korea" image="82" code="82" />
+	<country name="South Africa" image="27" code="27" />
+	<country name="Jamaica" image="1876" code="1876" />
+	<country name="Japan" image="81" code="81" />
+</countries>
