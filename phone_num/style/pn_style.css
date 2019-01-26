@@ -1,0 +1,78 @@
+div.num-container {
+    width:600px;
+    border:1px solid #666666;
+    border-radius: 5px;
+    margin:20px auto auto;
+    padding:10px;
+    font-family:"Segoe UI", "Helvetica", sans-serif;
+}
+
+.flag {
+    display: inline-block;
+    width:45px;
+    height:30px;
+    margin:0px;
+    padding: 0px;
+    vertical-align: top;
+    border:1px solid #999999;
+    border-radius: 5px;
+    background-size:100%;
+    box-sizing: border-box;
+}
+
+input#phone_code, input#phone_number, button#btn {
+    display: inline-block;
+    height:30px;
+    margin:0px;
+    padding: 0px 0px 0px 0px;
+    vertical-align: top;
+    border:1px solid #999999;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size:14px;
+}
+
+input:hover, input:active, input:focus {
+    box-shadow: 0px 0px 3px #999999;
+}
+
+input#phone_code {
+    width: 55px;
+    text-align:center;
+    padding: 0px;
+}
+
+input#phone_number {
+    width:220px;
+    padding:0px 0px 0px 10px;
+}
+
+button#btn {
+    padding:0px 5px;
+    color:#ffffff;
+    background: #999999;
+}
+
+button#btn:hover {
+    background: #666666;
+}
+
+button#btn:active {
+    color:#ffffff;
+    background: #151515;
+}
+
+#tooltips {
+    margin-top:10px;
+}
+
+p.tooltip {
+    background:#f9f9f9;
+    padding:5px;
+    margin: 0px;
+    border-top:1px solid #e0e0e0;
+}
+
+p.tooltip:last-of-type {
+    border-bottom: 1px solid #e0e0e0;
+}
