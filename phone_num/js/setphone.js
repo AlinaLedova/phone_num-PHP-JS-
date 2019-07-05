@@ -5,7 +5,7 @@ console.clear();
 
 
 let backendUrl = 'phone_num/gethint.php';
-let debugMode = true;
+let debugMode = false;
 
 
 function logDebug(){
@@ -53,7 +53,10 @@ function chooseCode(node) {
     let phoneCode = document.getElementById('phone_code');
     let country = document.getElementById('country_name');
 
-    flag.style.backgroundImage = `url('phone_num/images/${nationalFlag}.png')`;
+    if (flag !== null) {
+        flag.style.backgroundImage = `url('phone_num/images/${nationalFlag}.png')`;
+    }
+
     phoneCode.value = `+${code}`;
     country.value = countryName;
 

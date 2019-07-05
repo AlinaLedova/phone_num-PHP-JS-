@@ -1,1 +1,1 @@
-<?php $natFlag = "yes"; $activeCodes = "codeset"; $countries = array(); $countries[] = "43"; $countries[] = "54"; $countries[] = "359"; $countries[] = "55"; $countries[] = "673"; $countries[] = "226"; $countries[] = "49"; $countries[] = "504"; $countries[] = "48"; $countries[] = "351"; $countries[] = "7"; $countries[] = "1"; $countries[] = "252"; $countries[] = "232"; $countries[] = "41"; $countries[] = "593"; 
+<?php $natFlag = "yes"; $activeCodes = "all";
